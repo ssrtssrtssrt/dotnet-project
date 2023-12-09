@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MuseumFusion
+build_property.ProjectDir = C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/AddEditMuseums.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.AddEditMuseums.xaml
+build_metadata.AdditionalFiles.TargetPath = AddEditMuseums.xaml
+build_metadata.AdditionalFiles.RelativePath = AddEditMuseums.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/AddMuseumPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.AddMuseumPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddMuseumPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddMuseumPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/AdminPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.AdminPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AdminPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AdminPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/BookTicketsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.BookTicketsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = BookTicketsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = BookTicketsPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/CongratulationsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.CongratulationsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CongratulationsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CongratulationsPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/MuseumDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.MuseumDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MuseumDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MuseumDetailsPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/PaymentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.PaymentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PaymentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PaymentPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/RegistrationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.RegistrationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegistrationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegistrationPage.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/prath/Downloads/MuseumFusionOriginal/MuseumFusion/MuseumFusion/SignInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MuseumFusion.SignInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SignInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SignInPage.xaml

@@ -1,0 +1,12 @@
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\bin\Debug\net7.0\MuseumFusion.Repository.deps.json
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\bin\Debug\net7.0\MuseumFusion.Repository.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\bin\Debug\net7.0\MuseumFusion.Repository.pdb
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.csproj.AssemblyReference.cache
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.AssemblyInfoInputs.cache
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.AssemblyInfo.cs
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.csproj.CoreCompileInputs.cache
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\refint\MuseumFusion.Repository.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\MuseumFusion.Repository.pdb
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Repository\obj\Debug\net7.0\ref\MuseumFusion.Repository.dll

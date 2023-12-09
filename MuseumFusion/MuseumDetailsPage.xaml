@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MuseumFusion.MuseumDetailsPage"
+             Title="MuseumDetailsPage">
+
+    <StackLayout>
+        <Image Source="{Binding ImageUrl}" Aspect="AspectFill" HeightRequest="200"/>
+        <Label Text="{Binding Name}" FontAttributes="Bold" />
+        <Label Text="{Binding Place}" />
+        <Label Text="{Binding Date}" />
+        <Label Text="{Binding Price, StringFormat='Price: {0:C}'}" />
+        <Label Text="{Binding Description}" />
+        <Button Text="Buy Tickets" HorizontalOptions="CenterAndExpand" Clicked="OnBuyTicketsClicked"/>
+    </StackLayout>
+
+</ContentPage>
