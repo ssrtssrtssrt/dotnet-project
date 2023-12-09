@@ -1,0 +1,11 @@
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\bin\Debug\net7.0\MuseumFusion.Model.deps.json
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\bin\Debug\net7.0\MuseumFusion.Model.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\bin\Debug\net7.0\MuseumFusion.Model.pdb
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.AssemblyInfoInputs.cache
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.AssemblyInfo.cs
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.csproj.CoreCompileInputs.cache
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\refint\MuseumFusion.Model.dll
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\MuseumFusion.Model.pdb
+C:\Users\prath\Downloads\MuseumFusionOriginal\MuseumFusion\MuseumFusion.Model\obj\Debug\net7.0\ref\MuseumFusion.Model.dll
